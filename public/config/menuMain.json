@@ -9,14 +9,14 @@
     "id": 1,
     "icon": "fa fa-file-text",
     "slug": "La_formacion_etica_desde_la_Familia",
-    "title": "1. La formación ética desde la Familia",
+    "title": "1. La formación ética desde la familia",
     "breadcrumb": ["Inicio","Introducción"],
     "path": "pages/1-tema.html",    
     "submenu": [
       {
         "icon": "fa fa-file-text",
         "slug": "La_formacion_etica_desde_la_Familia",
-        "title": "1.1 Familia: concepto, educación de valores y principios",
+        "title": "1.1 La familia",
         "anchor": "11"
       },   
       {
